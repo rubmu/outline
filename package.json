@@ -144,7 +144,7 @@
     "sequelize-cli": "^5.5.0",
     "sequelize-encrypted": "^0.1.0",
     "slug": "^1.0.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "socket.io-redis": "^5.2.0",
     "socketio-auth": "^0.1.1",
     "string-replace-to-array": "^1.0.3",
