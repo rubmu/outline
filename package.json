@@ -138,7 +138,7 @@
     "react-portal": "^4.0.0",
     "react-router-dom": "^5.1.2",
     "react-waypoint": "^9.0.2",
-    "redis": "^2.6.2",
+    "redis": "^3.1.1",
     "rich-markdown-editor": "^9.11.1",
     "sequelize": "^5.21.1",
     "sequelize-cli": "^5.5.0",
